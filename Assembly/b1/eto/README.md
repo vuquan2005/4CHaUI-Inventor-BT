@@ -12,6 +12,8 @@
 
 Link ảnh:
 
+[img]https://raw.githubusercontent.com/vuquan2005/4CHaUI-Inventor/main/Assembly/b1/eto/img/draw.png[/img]
+
 [img]https://raw.githubusercontent.com/vuquan2005/4CHaUI-Inventor/main/Assembly/b1/eto/img/eto.png[/img]
 
 ```
@@ -19,6 +21,8 @@ Link ảnh:
 </details>
 
 ## 📷 Hình ảnh
+
+![draw.png](img/draw.png "draw.png")
 
 ![eto.png](img/eto.png "eto.png")
 
