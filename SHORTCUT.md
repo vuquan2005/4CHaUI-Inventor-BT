@@ -4,11 +4,10 @@
 
 | Phím | Lệnh                | Ghi chú       |
 | ---- | ------------------- | ------------- |
-| Z    | Line                | Vẽ đoạn thẳng |
+| L    | Line                | Vẽ đoạn thẳng |
 | C    | Center Point Circle | Vẽ đường tròn |
 | A    | Three Point Arc     | Cung 3 điểm   |
 | R6   | Polygon             | Đa giác       |
-| Y    | Point, Center Point | Vẽ điểm / tâm |
 
 ## 📏 2. Ràng buộc
 
@@ -25,7 +24,6 @@
 | B    | Equal             | Bằng nhau  |
 | H    | Horizontal        | Ngang      |
 | J    | Vertical          | Dọc        |
-| I    | Snap Intersection | Giao điểm  |
 
 ## 🛠️ 3. Chỉnh sửa
 
@@ -46,16 +44,6 @@
 | R4   | Rectangular Pattern        | Pattern chữ nhật |
 | R5   | Circular Pattern           | Pattern tròn     |
 | G    | Project Geometry           | Chiếu hình       |
-
-## ⚡ 5. Phím tắt mở rộng
-
-| Phím         | Lệnh                     | Ghi chú                    |
-| ------------ | ------------------------ | -------------------------- |
-| Ctrl+D       | Dynamic Dimension        | Kích thước động            |
-| Ctrl+I       | Toggle Infer Constraints | Bật/tắt suy luận ràng buộc |
-| Ctrl+R       | Toggle Ortho Mode        | Bật/tắt chế độ Orthogonal  |
-| Ctrl+Shift+P | Snap Object              | Bắt điểm đối tượng         |
-| F7           | Slice Graphics           | Cắt hiển thị đồ họa        |
 
 ## 🧩 6. Định dạng & Trợ giúp
 
